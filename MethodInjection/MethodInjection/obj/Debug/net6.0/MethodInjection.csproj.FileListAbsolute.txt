@@ -1,0 +1,15 @@
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\bin\Debug\net6.0\MethodInjection.exe
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\bin\Debug\net6.0\MethodInjection.deps.json
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\bin\Debug\net6.0\MethodInjection.runtimeconfig.json
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\bin\Debug\net6.0\MethodInjection.dll
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\bin\Debug\net6.0\MethodInjection.pdb
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.csproj.AssemblyReference.cache
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.AssemblyInfoInputs.cache
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.AssemblyInfo.cs
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.csproj.CoreCompileInputs.cache
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.dll
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\refint\MethodInjection.dll
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.pdb
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\MethodInjection.genruntimeconfig.cache
+C:\Users\Combat PC Gaming\source\repos\MethodInjection\MethodInjection\obj\Debug\net6.0\ref\MethodInjection.dll

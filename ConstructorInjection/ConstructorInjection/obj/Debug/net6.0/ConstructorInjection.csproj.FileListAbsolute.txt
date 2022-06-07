@@ -1,0 +1,15 @@
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\bin\Debug\net6.0\ConstructorInjection.exe
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\bin\Debug\net6.0\ConstructorInjection.deps.json
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\bin\Debug\net6.0\ConstructorInjection.runtimeconfig.json
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\bin\Debug\net6.0\ConstructorInjection.dll
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\bin\Debug\net6.0\ConstructorInjection.pdb
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.csproj.AssemblyReference.cache
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.AssemblyInfoInputs.cache
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.AssemblyInfo.cs
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.csproj.CoreCompileInputs.cache
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.dll
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\refint\ConstructorInjection.dll
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.pdb
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ConstructorInjection.genruntimeconfig.cache
+C:\Users\Combat PC Gaming\source\repos\ConstructorInjection\ConstructorInjection\obj\Debug\net6.0\ref\ConstructorInjection.dll
