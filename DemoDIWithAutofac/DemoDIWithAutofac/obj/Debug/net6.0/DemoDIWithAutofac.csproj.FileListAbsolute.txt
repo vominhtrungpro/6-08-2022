@@ -1,0 +1,17 @@
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\bin\Debug\net6.0\DemoDIWithAutofac.exe
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\bin\Debug\net6.0\DemoDIWithAutofac.deps.json
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\bin\Debug\net6.0\DemoDIWithAutofac.runtimeconfig.json
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\bin\Debug\net6.0\DemoDIWithAutofac.dll
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\bin\Debug\net6.0\DemoDIWithAutofac.pdb
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\bin\Debug\net6.0\Autofac.dll
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.csproj.AssemblyReference.cache
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.AssemblyInfoInputs.cache
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.AssemblyInfo.cs
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.csproj.CoreCompileInputs.cache
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.csproj.CopyComplete
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.dll
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\refint\DemoDIWithAutofac.dll
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.pdb
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\DemoDIWithAutofac.genruntimeconfig.cache
+C:\Users\Trung.Vo\source\repos\DemoDIWithAutofac\DemoDIWithAutofac\obj\Debug\net6.0\ref\DemoDIWithAutofac.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cnAnhnsajmLzyJIUgJGyLMwWUAcUaJdgkFvEhB+zuN8++ZfC6sTuQhPlSNV3+J8GZYEyJ8dDkzLwcwfpbcE3tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Trung.Vo\\source\\repos\\DemoDIWithAutofac\\DemoDIWithAutofac\\DemoDIWithAutofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trung.Vo\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Trung.Vo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
